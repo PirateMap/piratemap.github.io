@@ -1,0 +1,24 @@
+{
+    "Default": "a1798eaf-c628-482e-9b35-e3cebd45eadc",
+    "Development": ["3ac700dd-177c-440c-881a-6ae714ed4103"],
+    "ServerList": [
+        {
+            "ID": "a1798eaf-c628-482e-9b35-e3cebd45eadc",
+            "Name": "Niedersachsen",
+            "URL": "https://plakate.piraten-nds.de/",
+            "Info": "Server für Niedersachsen. Als Login bitte euer Wiki Login benutzten oder <a href=\"http://plakate.piraten-nds.de/\">hier</a> einen Account erstellen."
+        },
+        {
+            "ID": "50aad080-dfcd-4490-9816-f804e4e4bb82",
+            "Name": "Nordrhein-Westfalen (Aachen)",
+            "URL": "http://pk.piraten-aachen.de/",
+            "Info": "Server für NRW. Weitere Informationen im <a href=\"http://wiki.piratenpartei.de/Plakatkarte_NRW\">Wiki</a>.<br/>Ansprechpartner: Upuetz, boupirac"
+        },
+        {
+            "ID": "3ac700dd-177c-440c-881a-6ae714ed4103",
+            "Name": "Niedersachsen (Test Server)",
+            "URL": "http://piraten.boombuler.de/",
+            "Info": "Test- und Entwicklerserver"
+        }
+    ]
+}
