@@ -111,6 +111,12 @@
             "Info": "Server für NRW. Weitere Informationen im <a href=\"http://wiki.piratenpartei.de/Plakatkarte_NRW\">Wiki</a>.<br/>Ansprechpartner: Upuetz, boupirac"
         },
         {
+            "ID": "6b92dec1-fbfb-4fc8-ad4b-b276c0f70359",
+            "Name": "Unterfranken",
+            "URL": "https://piraten-ufr.de/plakate/",
+            "Info": "Server für Unterfranken."
+        },
+        {
             "ID": "3ac700dd-177c-440c-881a-6ae714ed4103",
             "Name": "Niedersachsen (Test Server)",
             "URL": "http://piraten.boombuler.de/",
