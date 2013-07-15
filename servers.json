@@ -1,6 +1,6 @@
 {
     "Default": "a1798eaf-c628-482e-9b35-e3cebd45eadc",
-    "Development": ["3ac700dd-177c-440c-881a-6ae714ed4103"],
+    "Development": ["3ac700dd-177c-440c-881a-6ae714ed4103","50aad080-dfcd-4490-9816-f804e4e4bb82","a1798eaf-c628-482e-9b35-e3cebd45eadc"],
     "ServerList": [
         {
             "ID" : "2f4d2a89-afc0-403f-b258-6689ad360561",
@@ -97,18 +97,6 @@
             "Name" : "BTW - Thüringen",
             "URL" : "http://btw.piraten-thueringen.de/th/",
             "Info" : "Server für die Bundestagswahl für Thüringen. Zum Einloggen entweder Wiki-Login benutzen oder <a href=\"http://btw.piraten-thueringen.de/th/\">hier</a> einen Account erstellen."
-        },
-        {
-            "ID": "a1798eaf-c628-482e-9b35-e3cebd45eadc",
-            "Name": "Niedersachsen",
-            "URL": "https://plakate.piraten-nds.de/",
-            "Info": "Server für Niedersachsen. Als Login bitte euer Wiki Login benutzten oder <a href=\"http://plakate.piraten-nds.de/\">hier</a> einen Account erstellen."
-        },
-        {
-            "ID": "50aad080-dfcd-4490-9816-f804e4e4bb82",
-            "Name": "Nordrhein-Westfalen (Aachen)",
-            "URL": "http://pk.piraten-aachen.de/",
-            "Info": "Server für NRW. Weitere Informationen im <a href=\"http://wiki.piratenpartei.de/Plakatkarte_NRW\">Wiki</a>.<br/>Ansprechpartner: Upuetz, boupirac"
         },
         {
             "ID": "6b92dec1-fbfb-4fc8-ad4b-b276c0f70359",
