@@ -15,6 +15,12 @@
             "Info": "Server für Unterfranken."
         },
         {
+            "ID": "55e15786-02c6-4fa1-85c0-9482152e09e7",
+            "Name": "Luxemburg",
+            "URL": "https://map.piraten.lu",
+            "Info": "Luxemburger Plakatkarte"
+        },
+        {
             "ID": "3ac700dd-177c-440c-881a-6ae714ed4103",
             "Name": "Niedersachsen (Test Server)",
             "URL": "http://piraten.boombuler.de/",
